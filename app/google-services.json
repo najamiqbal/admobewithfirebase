@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681814485132",
+    "project_id": "admobeapps-c2510",
+    "storage_bucket": "admobeapps-c2510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681814485132:android:3b597b765c00663086b3a9",
+        "android_client_info": {
+          "package_name": "com.videozdownloaders.snatubevidz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681814485132-jua627652utoai894c9fenv49o54l051.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtox5id6vlBtJeu7_lp-JT1SqcsihjHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681814485132-jua627652utoai894c9fenv49o54l051.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
